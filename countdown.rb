@@ -12,5 +12,5 @@ def countdown_with_sleep(seconds_to_midnight)
   seconds_to_midnight -= 1
   sleep(1)
 end
-"HAPPY NEW YEAR!"
+return "HAPPY NEW YEAR!"
 end
